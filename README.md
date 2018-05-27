@@ -3,7 +3,7 @@ Accompanying code for Paperspace tutorial series ["How to Implement YOLO v3 Obje
 
 Here's what a typical output of the detector will look like ;)
 
-![Detection Example](https://i.imgur.com/m2jwnen.png)
+![Detection Example](https://imgur.com/ZBuGMNi)
 
 ## About the training Code
 
